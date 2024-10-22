@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BaimsTask</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="retry">Retry</string>
+    <string name="select_a_city">Select a city</string>
+    <string name="date_time">Date/Time: %1$s</string>
+    <string name="temperature_c">Temperature: %.1f°C</string>
+    <string name="humidity">Humidity: %1$s%%</string>
+    <string name="weather">Weather: %1$s"</string>
+    <string name="city">City: %1$s, %2$s</string>
+    <string name="stale">Stale data warning: the information may not be reliable.</string>
+</resources>
